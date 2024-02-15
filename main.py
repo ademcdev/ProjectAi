@@ -1,7 +1,7 @@
 import os
 import pygame
 import speech_recognition as sr
-from botScrapper import *
+from BotScrapper import *
 import pyautogui
 import pywhatkit
 import psutil
