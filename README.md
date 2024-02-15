@@ -39,7 +39,7 @@
 ## Contributing
 
 Contributions to the Virtual Assistant project are welcome! If you'd like to contribute, please fork the repository, create a new branch for your changes, and submit a pull request.
-For questions or suggestions regarding Virtual Assistant, please contact [Adem Çambel] at [ranexcdev@gmail.com].
+For questions or suggestions regarding Virtual Assistant, please contact Adem Çambel at ranexcdev@gmail.com.
 
 ## License
 
