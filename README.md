@@ -30,7 +30,7 @@
    pip install -r requirements.txt
    ```
 
-3. Download the necessary drivers (e.g., ChromeDriver) and place them in the project directory.
+3. Place the ChromeDriver executable (`chromedriver.exe`) in the project directory.
 
 ## Customization
 
