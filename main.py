@@ -123,7 +123,7 @@ speak('Allow me to introduce myself, i am Jarvis, a Virtual Artificial intellige
 
 clickChatButton()
 while True:
-    query = input('You: ') # takeCommand().lower()
+    query = takeCommand().lower() # input('You: ')
     print('\nYou: ' + query)
     
     if 'exit' in query:
@@ -150,7 +150,7 @@ while True:
     else:
         aiResponse(query)
     while sleepMode:
-        query = input('You: ') # takeCommand().lower()
+        query = takeCommand().lower() # input('You: ')
         if 'wake up' in query:
             speak('How can i help you sir.')
             sleepMode = False

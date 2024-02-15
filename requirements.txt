@@ -1,0 +1,9 @@
+pygame
+SpeechRecognition
+pyautogui
+pywhatkit
+psutil
+pywin32
+fuzzywuzzy
+selenium
+g4f
