@@ -14,7 +14,7 @@
 ## Prerequisites
 - Python 3.11+ installed on your system
 - Chrome browser
-- ChromeDriver install the suitable version for your Chrome version - Download from [ChromeDriver website](https://googlechromelabs.github.io/chrome-for-testing/)
+- ChromeDriver install the suitable version for your Chrome version - Download from [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
 
 ## Installation
 
@@ -34,7 +34,7 @@
 
 ## Customization
 
-- Modify the `speak` function to change the voice used for responses - see the [NaturalVoice](NaturalVoices) file.
+- Modify the `speak` function to change the voice used for responses - see the [NaturalVoice](NaturalVoices.txt) file.
 
 ## Contributing
 
