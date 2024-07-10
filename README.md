@@ -1,6 +1,6 @@
 # Virtual Assistant (Under Development)
 
-**Jarvis** is a virtual assistant currently under development. It is designed to assist users with various tasks using natural language processing and speech recognition. This project is divided into several files, with `main.py` containing the core functionality of the assistant.
+**Jarvis** is a virtual assistant currently under development. It is designed to assist users with various tasks using natural language processing and speech recognition.
 
 ## Functionality
 
